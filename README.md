@@ -5,5 +5,5 @@
 
 ## 资料
 
-* 课后参考答案： http://knking.com/books/c2/answers/index.html
+* 官方课后参考答案： http://knking.com/books/c2/answers/index.html
 * 其他人的解答： https://github.com/williamgherman/c-solutions
