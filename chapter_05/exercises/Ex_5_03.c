@@ -32,7 +32,7 @@ int main(void) {
   printf("%d ", (i = j) || (j = k));
   printf("%d %d %d\n", i, j, k);
   i = 1; j = 1; k = 1;
-  printf("%d ", ++i || ++j && ++k);
+  printf("%d ", ++i || ++j && ++k); // explain: https://stackoverflow.com/a/61714907
   printf("%d %d %d\n", i, j, k);
 
 
